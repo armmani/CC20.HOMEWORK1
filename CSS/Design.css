@@ -1,0 +1,43 @@
+
+
+body {
+  font-family: "Kodchasan", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+table {
+  border: 1px solid rgb(227, 93, 93);
+  border-collapse: collapse;
+  color: lightblue;
+  padding: 6px;
+}
+th {
+  border: 1px solid rgb(227, 93, 93);
+  border-collapse: collapse;
+  background-color: darkslateblue;
+  color: lightblue;
+  padding: 6px;
+}
+td {
+  border: 1px solid rgb(227, 93, 93);
+  border-collapse: collapse;
+  background-color: rgb(142, 133, 199);
+  color: rgb(167, 231, 252);
+  padding: 6px;
+}
+.center {
+  text-align: center ;
+}
+form {
+  padding: 20px;
+  width: 50%;
+  border: 1px solid darkslategray;
+  border-radius: 12px;
+  margin: 6px;
+}
+input, select, textarea {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+}
